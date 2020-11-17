@@ -1,5 +1,5 @@
 body{
-        background: url(/img/background-coffee-beans-and-cups.jpg);
+        background: url(../img/background-coffee-beans-and-cups.jpg);
       }
       
       .coffee-btn{ 
@@ -34,8 +34,8 @@ body{
         background:navy;
         color: white;
         border: 3px solid black;
-        font-family: 'Press Start 2P', cursive;
-        font-size:0.7em;
+        font-family: 'Comfortaa', cursive;
+        font-size:0.8em;
       }
       #change_box{
         width:95%;
