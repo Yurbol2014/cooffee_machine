@@ -6,5 +6,5 @@
 
 ### ДЕПЛОЙ https://cooffee-machine.vercel.app/
 
-<img url:"https://github.com/Yurbol2014/img/blob/main/coffe-machine.png" alt:"coffe-machine">
+<img url="https://github.com/Yurbol2014/img/blob/main/coffe-machine.png" alt="coffe-machine">
 
