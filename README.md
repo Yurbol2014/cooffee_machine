@@ -2,7 +2,7 @@
 
 Иммитация кофейного аппарата на нативном JavaScript 
 
-### Используемы технологии: JS,html,css
+### Используемые технологии: JS,html,css
 
 ### ДЕПЛОЙ https://cooffee-machine.vercel.app/
 
